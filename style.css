@@ -8,22 +8,20 @@ body {
 
 #horizontal-underline {
   position: absolute;
-  left: 0;
-  top: 0;
   width: 0px;
   height: 4px;
   border-radius: 4px;
   background-color: #548cff;
+  transition: 0.4s;
 }
 
 #vertical-underline {
   position: absolute;
-  left: 0;
-  top: 0;
   width: 0px;
   height: 4px;
   border-radius: 4px;
   background-color: #8267be;
+  transition: 0.4s;
 }
 
 .divider {
